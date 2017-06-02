@@ -2,7 +2,6 @@
  * Blinks LED on connected to pin 13 (PB5 on Atmega328P)
  * Have a look at ATmega328_ArduinoUno_pinmap.jpg
  *
- * Authors : Jabez Winston C, Hariharan K
  *
  */
 
